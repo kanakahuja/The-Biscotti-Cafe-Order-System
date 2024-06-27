@@ -1,0 +1,32 @@
+{
+    "1": {
+        "table_number": 1,
+        "order_number": 1,
+        "items": {
+            "tea": 1,
+            "cake": 3,
+            "burger": 1
+        },
+        "is_active": false,
+        "include_packaging": false,
+        "order_time": "2024-06-27 14:19:40"
+    },
+    "2": {
+        "table_number": 2,
+        "order_number": 2,
+        "items": {
+            "coffee": 1
+        },
+        "is_active": false,
+        "include_packaging": true,
+        "order_time": "2024-06-27 14:19:50"
+    },
+    "3": {
+        "table_number": 4,
+        "order_number": 3,
+        "items": {},
+        "is_active": true,
+        "include_packaging": false,
+        "order_time": "2024-06-27 14:20:29"
+    }
+}
